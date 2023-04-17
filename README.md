@@ -1,2 +1,2 @@
 # CursoBalta
- Repositório criado para armazenar códigos.
+ Repositório criado para armazenar códigos aprendidos no curso Balta.
