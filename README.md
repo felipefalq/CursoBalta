@@ -1,2 +1,2 @@
 # Balta.io
- Repositório criado para armazenar códigos aprendidos no curso Balta.
+ Repositório para armazenar códigos aprendidos no curso Balta.
