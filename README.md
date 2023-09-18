@@ -1,2 +1,3 @@
-# Balta.io
- Repositório para armazenar códigos aprendidos no curso Balta.
+# StudyProjects
+ 
+Repositório para armazenar meus projetos de estudo.
